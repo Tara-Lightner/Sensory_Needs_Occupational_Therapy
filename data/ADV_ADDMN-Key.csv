@@ -1,0 +1,10 @@
+white,Non-hispanic white
+black,Non-hispanic black
+hisp,Hispanic
+api,Asian or Pacific Islander
+aian,American Indian or Alaska Native
+prev,Prevalence
+ci.l,Lower Confidence Interval
+ci.u,Upper Confidence Interval
+abbr,State abbreviation
+Note: All data is from health and education records,
