@@ -45,7 +45,19 @@ A simple balanced random forest classifier model was used to analyze if there we
 
 This data set shows potential for creating a questionairre based on identifiers weighted stronger by the BRFC model that can be used to predict an autism diagnosis. This could be used for parents wondering if they should get their child evaluated and could be used for early detection in the 0-2 year old range based on the trends seen in 3-17 year olds.
 
-- Technologies, languages, tools, and algorithms used throughout the project
+## Technologies, languages, tools, and algorithms used throughout the project
+
+### Data Cleaning and Analysis
+Jupyter notebok and Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+
+### Database Storage
+Mongo is the database we intend to use, and we will integrate Flask to display the data.
+
+### Machine Learning
+SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+
+### Dashboard
+In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on tableau.
 
 - Result of analysis
 - Recommendation for future analysis
@@ -59,10 +71,26 @@ This data set shows potential for creating a questionairre based on identifiers 
 - Utilize individual Git Hub branches for any individuals work that might not be needed from the final group branch or
 - Utilize main branch to add each individauls contributions minimally once a week, an as progress occures that others may need to interact or pull from to continue their work
 -  Utilize Google Drive team Folder that includes documents such as notes and final presentation to help keep track for overal project management
+-- Utilize class time Tuesdays and Thursdays from 7:00 p.m. - 9:00 p.m. e.s.t.
+- Communicate per slack group channel proj-g8 to tag team members for urgent questions that need help within 24 hours.
+- Utilize individual Git Hub branches for any individuals work that might not be needed from the final group branch or
+- Utilize main branch to add each individual contributions minimally once a week, an as progress occures that others may need to interact or pull from to continue their work
+-  Utilize Google Drive team Folder that includes documents such as notes and final presentation to help keep track for overal project management
+- Git Hub Branches
+  - Goal: separate your work and keep the main branch free from code in progress. 
+create a new branch for each topic. 
+For example, code to clean a dataset on tomatoes could be called cleaning_tomatoes. If the same person started analysis on the data, he or she would then create a new branch called analyzing_tomatoes.
+  - All code in the main branch should be production-ready.
+    - clean
+    - commented
+    - easy to read
+    - adhere to a coding standard, such as PEP8.
+
+Jupyter Notebook: For each coding section, please alternate with a md cell that explains what is happening
+
 
 ### The presentation should be finalized in Google Slides and include the following:
 
-- 
 - Slides are primarily images or graphics (rather than primarily text).
 - Images are clear, in high-definition, and directly illustrative of subject matter.
 
