@@ -51,13 +51,16 @@ This data set shows potential for creating a questionairre based on identifiers 
 Jupyter notebok and Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ### Database Storage
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+Psycopg - Postgresql database adapter is we are using to do preliminary work for segment one.
+A possible consideration might be Mongo is the database we intend to use, and we will integrate Flask to display the data.
 
 ### Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is 
+train_test_split was used then training data with the BalancedRandomForestClassifier to resample
+
 
 ### Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on tableau.
+Our dashboard will be hosted on tableau.
 
 - Result of analysis
 - Recommendation for future analysis
@@ -142,8 +145,10 @@ Which model did you choose and why?
 How are you training your model?
 
 What is the model's accuracy?
+0.9226404429705763
 
 How does this model work?
+
 
 ### Segments 2 & 3: Train your model and confirm it's working with your robust database. 
 
