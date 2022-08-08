@@ -2,9 +2,6 @@
 
 Background: Sensory Processing Disorders (SPD) are continued to be studied including Autism, ADHD, ODD, exc.  However there are SPD is not currently in the DSM.  There is a recent study that shows there are nerological differences to those who have sensory processing disorders.  As DSM definitions change throughout time how do we know what is the best framework for classification.  Interestinly enought one of the subsets of SPD, Autim is new as a diagnsis and recently has had s change in diffination (clasification).  Are there indicators that might correlate to what produce these neroglogical differences?  For the scope of this project we will be focusing on Austim and the relationship between reported indicators and diagnosis.
 
-Technologies being Used:
-
-
 ## Presentation (25 points)
 The presentation itself is worth 25 points, or a full quarter of your grade for the final segment. This is your chance to share a polished, interview or boardroom ready deliverable.
 
