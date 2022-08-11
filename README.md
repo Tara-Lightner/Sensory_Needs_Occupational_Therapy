@@ -13,6 +13,8 @@ Remember, you won't necessarily be graded on whether or not you've built the ver
 - How did you select the model, and why? 
 - What roadblocks did you encounter (there are always roadblocks!), and 
   - how did you solve them?
+  We used a database that was pasword protected, so only one person had access.
+  
 Content
 The presentation should tell a cohesive story about the project and include the following:
 
