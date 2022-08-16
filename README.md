@@ -1,16 +1,14 @@
 # Autism in the United States
 
-Background: Sensory Processing Disorders (SPD) are continued to be studied including Autism, ADHD, ODD, exc.  However there are SPD is not currently in the DSM.  There is a recent study that shows there are nerological differences to those who have sensory processing disorders.  As DSM definitions change throughout time how do we know what is the best framework for classification.  Interestinly enought one of the subsets of SPD, Autim is new as a diagnsis and recently has had s change in diffination (clasification).  Are there indicators that might correlate to what produce these neroglogical differences?  For the scope of this project we will be focusing on Austim and the relationship between reported indicators and diagnosis.
+## Background: 
+Sensory Processing Disorders (SPD) are continued to be studied including Autism, ADHD, ODD, exc.  However there are SPD is not currently in the DSM.  There is a recent study that shows there are nerological differences to those who have sensory processing disorders.  As DSM definitions change throughout time how do we know what is the best framework for classification.  Interestinly enought one of the subsets of SPD, Autim is new as a diagnsis and recently has had s change in diffination (clasification).  Are there indicators that might correlate to what produce these neroglogical differences?  For the scope of this project we will be focusing on Austim and the relationship between reported indicators and diagnosis.
 
 ## Presentation (25 points)
-The presentation itself is worth 25 points, or a full quarter of your grade for the final segment. This is your chance to share a polished, interview or boardroom ready deliverable.
-
 ![Final_Presentation](https://drive.google.com/drive/u/0/folders/1Jwe2gP8jb_1W5QPOZSjVowWevnC5cHkG)
-
-
 
 Remember, you won't necessarily be graded on whether or not you've built the very best model. Instead, you'll be graded on your process: 
 - How did you select the model, and why? 
+TH
 - What roadblocks did you encounter (there are always roadblocks!), and 
   - how did you solve them?
   We used a database that was pasword protected, so only one person had access.
