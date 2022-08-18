@@ -11,7 +11,7 @@ Remember, you won't necessarily be graded on whether or not you've built the ver
 TH
 - What roadblocks did you encounter (there are always roadblocks!), and 
   - how did you solve them?
-  We used a database that was pasword protected, so only one person had access.
+  We used a database that was password protected, so only one person had access.
   
 Content
 The presentation should tell a cohesive story about the project and include the following:
@@ -20,7 +20,9 @@ The presentation should tell a cohesive story about the project and include the 
 - - Data Sets that were explored for consideration:
 * ACS American Community Survey https://www.census.gov/programs-surveys/acs
 * U.S. bureau of labor statistics https://www.bls.gov/
-
+* The 2019-2020_NSCH_CAHMI_DRC data set was used.  Which is the National Survey for Childrens Health (NSCH) and Administration Maternal and Child and Adolescent Healht MEasurement Initiative (CAHMI), under a cooperative agreement with the Health Resources and Services Administration’s (HRSA) Maternal and Child Health Bureau (MCHB).  This data set includes data from 72,210 children ages 0-17 years.
+There current interactive data looks as follows:
+![https://www.childhealthdata.org/browse/survey?s=2&y=32&r=1](https://www.childhealthdata.org/browse/survey?s=2&y=32&r=1)
 
 ### Questions the team hopes to answer with the data
  - How can trends in Autism Diagnosis over time be used to predict upcoming diagnoses? 
