@@ -1,6 +1,7 @@
 #Files
 config.py
-RAW_2019-2020 NSCH_Topical_CAHMI_DRC.csv
+2019-2020 NSCH_Topical_CAHMI_DRC_Dataset_Load.csv
+2019-2020 NSCH_Topical_CAHMI_DRC_Original.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
