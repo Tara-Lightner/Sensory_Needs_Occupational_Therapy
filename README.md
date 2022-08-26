@@ -66,13 +66,12 @@ Jupyter notebook and python language with Pandas will be used to clean the data 
 
 ### Database Storage
 
-Psycopg - Postgresql database adapter is we are using to do preliminary work for segment one.
-A possible consideration might be Mongo is the database we intend to use, and we will integrate Flask to display the data.
+The database is stored in PostgreSQL 11 using pgAdmin 4, SQLALchemy, and psycopg2 to connect to the machine learning model. The ERD for this database can be found in the project presentation.
 
 ### Machine Learning
 
 SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is
-train_test_split was used, then training data with the BalancedRandomForestClassifier to resample
+train_test_split was used, then training data with the BalancedRandomForestClassifier to resample. This was initially done on a subset of the data containing half the original columns. Columns dropped were either duplicates or were used to directly calculate another column. These columns were then ranked using the Balanced Random Forest Classifier to filter for the top 10 columns that were relevant to predicting autism diagnosis based on the current understanding of autism. These 10 columns were used in a balanced random forest and easy ensemble classifier model to confirm the accuracy remained high. Both models performed similarly at 82% accuracy.
 
 ### Dashboard
 
@@ -82,8 +81,7 @@ Our dashboard is hosted on tableau-- [Autism Dashboard Link](https://public.tabl
 
 ### Recommendation for future analysis
 
-- Anything the team would have done differently
-- Slides
+- 
 
 ### Communication Protocols
 
